@@ -1,6 +1,6 @@
 ### Hi! I'm Paul~👋
 
-- 🔭 I’m currently working on my final capstone project for General Assembly.
+- 🔭 I’m a recent grad for General Assembly.
 - 🌱 I’m currently learning jsx.
 - 👯 I’m looking to collaborate with awesome folks who love creativity and endless possibilities.
 - 📫 How to reach me: hyungy@gmail.com | https://www.linkedin.com/in/paulhyunlee/
